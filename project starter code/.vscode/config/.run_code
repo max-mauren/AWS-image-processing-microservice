@@ -1,0 +1,4 @@
+git clone https://github.com/aws/aws-elastic-beanstalk-cli-setup.git
+python ./aws-elastic-beanstalk-cli-setup/scripts/ebcli_installer.py
+echo 'export PATH=/root/.ebcli-virtual-env/executables:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/node-v16.15.0-linux-x64/bin:/usr/local/go/bin' >> ~/.bash_profile && source ~/.bash_profile
+clear
