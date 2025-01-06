@@ -26,4 +26,6 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## Microservice end point
 http://aws-image-processing-microservice-proje.us-east-1.elasticbeanstalk.com
 
+## Github repo of the microservice
+https://github.com/max-mauren/AWS-image-processing-microservice
 
