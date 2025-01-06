@@ -22,3 +22,8 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+## Microservice end point
+http://aws-image-processing-microservice-proje.us-east-1.elasticbeanstalk.com
+
+
